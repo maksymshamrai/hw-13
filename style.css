@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.upside {
+    text-align: center;
+    background-color: #2F303A;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    height: 300px;
+    padding-top: 10px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.text-card {
+    font-size: 15px;
+    padding-right: 10px;
+}
+.tasks {
+    display: flex;
+    justify-content: center;
+}
+.tasks-image {
+    padding-right: 15px;
+}
+.tasks-title {
+    text-align: center;
+}
+.team {
+    background-color: #F5F4FA;
+    display: flex;
+    justify-content: center;
+}
+.team-title {
+    text-align: center;
+}
+.team-card {
+    padding-right: 15px;
+}
+.footer {
+    background-color: #2F303A;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container {
+    width: 1600px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
